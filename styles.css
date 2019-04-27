@@ -1,3 +1,41 @@
 body {
   background-color: red;
+  margin: 0;
+
+}
+
+h1 {
+  color: green;
+  margin: 0;
+  padding: .5em;
+  font-size: 4em;
+  font-family: cursive;
+  text-align: center;
+}
+
+header {
+    background-color: White;
+}
+nav {
+  background-color: yellow;
+}
+ul {
+  margin:0;
+}
+li {
+  background-color: yellow;
+  display: inline-block; /* This eliminates the width property  */
+}
+
+a {
+  color: green;
+  text-decoration: none;
+  display: inline-block;
+  background-color: yellow;
+  padding: 1em 1em;
+  font-size: 1.3em
+}
+a:hover {
+  color: purple;
+  font-weight: bold;
 }
