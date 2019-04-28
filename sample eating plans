@@ -17,7 +17,7 @@
           <a href="index.html">Home</a>
         </li>
         <li>
-          <a href="Services.html">Services</a>
+          <a href="services.html">Services</a>
         </li>
         <li>
           <a href="eating_plans.html">Sample Eating Plans</a>
@@ -67,9 +67,11 @@
         </ul>
 
       </aside>
-      <section class="sectionPlan">
-        <h2>Contact Information</h2>
-        <p>Irene Plasencia<br> (925)848-6964</p>
+      <section>
+        <h2>Plan One</h2>
+        <ul>
+          <li><strong>Breakfast - Steel Cut Oats with Honey</strong></li>
+        </ul>
       </section>
     </main>
     <footer>

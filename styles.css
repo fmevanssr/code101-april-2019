@@ -59,9 +59,15 @@ nav a:hover {
 }
 
 
-section {
+.sectionPlan {
   background-color: red;
-  margin-left: 400px;
+  float:left;
+  padding: 0em;
+  font-size: 1.5em;
+}
+.sectionHome {
+  background-color: red;
+  margin-left: 400px:
   padding: 0em;
   font-size: 1.5em;
 }
